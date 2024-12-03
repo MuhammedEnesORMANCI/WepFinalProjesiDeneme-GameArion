@@ -1,1 +1,10 @@
 # WepFinalProjesiDeneme-GameArion
+
+README
+
+YAPILACAKLAR
+WEP
+RESİMLER
+VS.
+
+BUNU OKUDUĞUNUZ İÇN TEŞEKÜRLER
